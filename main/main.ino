@@ -1,5 +1,5 @@
 /*
- Sonar sensor
+ UltrasonicSensor sensor
  VCC to 5v 
  GND to GND
  SIG to PIN 12
